@@ -10,7 +10,8 @@ Uploaded for research purposes and so we can develop IoT and such.
 * electric-fence
 * mysql-server
 * mysql-client
-* kvm
+* cloudfox
+* nmap
 
 
 ## Disclaimer
