@@ -1,6 +1,6 @@
 # Lazarus Botnet
 
-Source code purportedly leaked from the Lazarus Group (also known as Guardians of Peace or Whois Team). This repository is intended **strictly for research and IoT development purposes**.
+Leaked source code from the notorius Lazarus Group (also known as Guardians of Peace or Whois Team). This repository is intended **strictly for research and IoT development purposes**.
 
 ## Purpose
 This project is uploaded to facilitate research into cybersecurity, particularly IoT security, allowing developers and researchers to study and improve defensive measures against similar threats.
